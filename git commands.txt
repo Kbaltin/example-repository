@@ -1,0 +1,15 @@
+will it save this change?
+~ = Home Folder
+CD = Change Directory
+LS = List Items in Directory
+.. = Parent Folder
+/ root folder of the file system
+Hello
+mkdir+name = create a folder
+nano = access to txt file
+
+nano git\ commands.txt
+
+ls -a  Will show you hidden files and folders
+. = folder itself
+git commit = save
